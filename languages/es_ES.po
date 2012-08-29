@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SlaffisticaClassic i10n\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-09-18 11:50-0300\n"
+"Last-Translator: Slaff <contact.sb@gmail.com>\n"
+"Language-Team: Slaff <slaff@slaff.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Argentina\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /Users/slaff/Workspace/Translations/slaffistica_classic\n"
+
+#: functions.php:69
+#: functions.php:79
+msgid "Current Theme Options"
+msgstr "Opciones del template"
+
+#: functions.php:84
+msgid "Meta Data"
+msgstr "Meta datos"
+
+#: functions.php:86
+msgid "Description:"
+msgstr "Descripción:"
+
+#: functions.php:90
+msgid "Keywords:"
+msgstr "Palabras claves:"
+
+#: functions.php:90
+msgid "( Separate keywords with commas )"
+msgstr "( Separar con coma )"
+
+#: functions.php:102
+msgid "Showcase"
+msgstr "Showcase"
+
+#: functions.php:104
+msgid "HTML on (all text will be parsed into one paragraph. Use BR tag to split lines.)"
+msgstr "HTML habilitado (todo el texto va dentro de un paragrafo. Usa BR para separar las lineas)"
+
+#: functions.php:108
+msgid "This block will be shown on the top of sidebar."
+msgstr "Este bloque aparecerá en el top de Sidebar."
+
+#: functions.php:110
+msgid "Block title"
+msgstr "Título del bloque"
+
+#: functions.php:118
+msgid "Who can see?"
+msgstr "Quien puede verlo?"
+
+#: functions.php:121
+msgid "Registered users"
+msgstr "Usuario registrados"
+
+#: functions.php:125
+msgid "Commentators"
+msgstr "Comentadores"
+
+#: functions.php:129
+msgid "Visitors"
+msgstr "Visitantes"
+
+#: functions.php:141
+#: footer.php:5
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: functions.php:145
+msgid "Use alternate URL for RSS feed."
+msgstr "Usar URL alternativa para RSS"
+
+#: functions.php:147
+msgid "Feed URL:"
+msgstr "URL de suscripción:"
+
+#: functions.php:156
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: functions.php:163
+msgid "Support theme development"
+msgstr "Soporte de desarrollo del template"
+
+#: functions.php:169
+msgid "Any help $ are welcome. Every bucks counts and motivates me to do something more for you people. ;)."
+msgstr "Cualquier tipo ayuda $ es bienvenido y será agredecido. Cada dollar se cuenta y propone una buena movitivación para seguir creando cosas lindas y utiles."
+
+#: functions.php:208
+#: old.comments.php:33
+msgid "Your comment is waiting to be approved in moderation queue."
+msgstr "Su comentario se encuentra en la cola de moderación. Aguarde, por favor."
+
+#: functions.php:215
+#: form.comments.php:16
+msgid "Reply to %s"
+msgstr "Responder a %s"
+
+#: functions.php:213
+#: old.comments.php:36
+#: search.php:23
+#: theloop.php:36
+#: theloop.php:42
+msgid "Edit"
+msgstr "Editar"
+
+#: form.comments.php:9
+msgid "Comments are open only for registered users."
+msgstr "Comentarios disponibles solamente para usuarios registrados."
+
+#: form.comments.php:9
+msgid "Please, login"
+msgstr "Por favor, logea"
+
+#: form.comments.php:9
+msgid " to leave a comment."
+msgstr " para poder enviar comentarios."
+
+#: form.comments.php:16
+msgid "Your comment"
+msgstr "Su comentario"
+
+#: form.comments.php:18
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: form.comments.php:22
+msgid "Logout"
+msgstr "Salir"
+
+#: form.comments.php:25
+msgid "Name"
+msgstr "Nombre"
+
+#: form.comments.php:25
+msgid "Real, if posible"
+msgstr "Preferible real"
+
+#: form.comments.php:25
+msgid "Email"
+msgstr "Email"
+
+#: form.comments.php:25
+msgid "Not published"
+msgstr "No se publica"
+
+#: form.comments.php:31
+msgid "Website"
+msgstr "Sitio web"
+
+#: form.comments.php:40
+msgid "You can use following html tags:"
+msgstr "Se puede utilizar siguientes tags HTML:"
+
+#: legacy.comments.php:3
+#: old.comments.php:4
+msgid "Error! This page could not be loaded directly."
+msgstr "Error! Esta pagina no puede ser cargada directamente."
+
+#: legacy.comments.php:6
+#: old.comments.php:8
+msgid "This entry is password protected"
+msgstr "Esta entrada se encuentra protegida con contraseña"
+
+#: legacy.comments.php:25
+#: old.comments.php:52
+msgid "There are no comments yet."
+msgstr "Todavía no hay comentarios."
+
+#: legacy.comments.php:27
+#: old.comments.php:75
+#: theloop.php:33
+msgid "Comments are closed."
+msgstr "Discusión cerrada."
+
+#: old.comments.php:52
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: theloop.php:5
+msgid "Archives in category"
+msgstr "Archivo de categoría"
+
+#: theloop.php:7
+msgid "Archives by tag"
+msgstr "Archivo de tag"
+
+#: theloop.php:9
+#: theloop.php:11
+#: theloop.php:13
+msgid "Entries for"
+msgstr "Entradas de "
+
+#: theloop.php:15
+msgid "Archives by author"
+msgstr "Navegando por entradas del autor"
+
+#: theloop.php:18
+msgid "Browsing blog archives"
+msgstr "Navegando por el archivo del blog"
+
+#: theloop.php:27
+msgid "Continue reading &raquo; &raquo; &raquo;"
+msgstr "Continuar leyendo &raquo; &raquo; &raquo;"
+
+#: theloop.php:33
+msgid "Leave a comment"
+msgstr "Dejar comentario"
+
+#: theloop.php:33
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: theloop.php:33
+msgid "Read comments (%)"
+msgstr "Leer comentarios (%)"
+
+#: theloop.php:41
+msgid "<p><strong>Pages:</strong>"
+msgstr "<p><strong>Paginas:</strong>"
+
+#: theloop.php:44
+msgid "Go to top of page"
+msgstr "Ir al principio de pagina"
+
+#: theloop.php:44
+msgid "Top"
+msgstr "Top"
+
+#: theloop.php:44
+msgid "Permalink for"
+msgstr "Link permanente para"
+
+#: theloop.php:44
+msgid "Permalink"
+msgstr "Link permanente"
+
+#: theloop.php:44
+msgid "Trackback link for"
+msgstr "Trackback para"
+
+#: theloop.php:44
+msgid "Trackback"
+msgstr "Trackback"
+
+#: theloop.php:44
+msgid "Scroll to comment form"
+msgstr "Saltear a formulario de comentarios"
+
+#: searchform.php:2
+msgid "search this blog"
+msgstr "buscar en el blog"
+
+#: sidebar.php:4
+#: searchform.php:4
+msgid "Search"
+msgstr "Busqueda"
+
+#: sidebar.php:24
+msgid "Pages"
+msgstr "Paginas"
+
+#: sidebar.php:34
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#: sidebar.php:40
+msgid "Archives"
+msgstr "Archivos"
+
+#: sidebar.php:48
+msgid "Entry information"
+msgstr "Información sobre la entrada"
+
+#: sidebar.php:50
+msgid "This entry was published at"
+msgstr "Esta entrada fue publicada"
+
+#: sidebar.php:51
+msgid "in category"
+msgstr "en categoría(s)"
+
+#: sidebar.php:52
+msgid "and tagged with"
+msgstr "y tageada con"
+
+#: header.php:6
+msgid "Browsing archives for category: "
+msgstr "Navegando por archivos en la categoría:"
+
+#: header.php:7
+msgid "Browsing archives "
+msgstr "Navegando por archivos"
+
+#: header.php:8
+msgid "Browsing archives by tag: "
+msgstr "Navegando por archivos del tag:"
+
+#: header.php:9
+#: search.php:35
+#: theloop.php:63
+msgid "Search results:"
+msgstr "Resultados de la busqueda:"
+
+#: search.php:37
+#: theloop.php:64
+msgid "There is nothing matching for your search criteria "
+msgstr "No se encuentra nada según sus criterios de busqueda"
+
+#: theloop.php:67
+msgid "Error 404 "
+msgstr "Error 404"
+
+#: theloop.php:69
+msgid "The page you are trying to access is not exits. Try to use search form or archive pages."
+msgstr "La pagina que Usted trata de acceder no existe. Prueba utilizar buscador o ver archivos del blog."
+
+#: navigation.php:23
+msgid "To the begining"
+msgstr "Al comienzo"
+
+#: navigation.php:24
+msgid "First page"
+msgstr "Primer"
+
+#: navigation.php:40
+msgid "Last page"
+msgstr "Ultima"
+
+#: navigation.php:39
+msgid "To the end"
+msgstr "Al final"
+
+#: footer.php:5
+msgid "Valid"
+msgstr "Valido"
+
+#: footer.php:5
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform"
+msgstr "Blog funciona en WordPress."
+
+#: footer.php:5
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Esta pagina realiza validación  XHTML 1.0 Transitional"
+
+#: footer.php:5
+msgid "This page validates has valid CSS"
+msgstr "Esta pagina realiza validación CSS"
+
